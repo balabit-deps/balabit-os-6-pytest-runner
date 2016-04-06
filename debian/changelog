@@ -1,0 +1,11 @@
+pytest-runner (2.7.1-1) unstable; urgency=medium
+
+  * New upstream version.
+
+ -- Brian May <bam@debian.org>  Wed, 06 Apr 2016 13:16:07 +1000
+
+pytest-runner (2.7-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #819853)
+
+ -- Brian May <bam@debian.org>  Sun, 03 Apr 2016 13:53:31 +1000
